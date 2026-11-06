@@ -14,15 +14,16 @@ I care about software that holds up in real use: it validates input, keeps worki
 |---|---|---|
 | **[Cadence](https://github.com/AugmentChris/cadence)** · [live demo](https://augmentchris.github.io/cadence/) | Installable, offline-first PWA timer for multi-stage routines and focus sessions. Wall-clock timing, a validated persistence layer, Web Audio soundscapes, CSP-hardened, unit-tested with CI. | Vanilla JS (ES modules), Service Worker, Web Audio API, GitHub Actions |
 | **[Express Book Reviews](https://github.com/AugmentChris/expressBookReviews)** | REST API for a bookshop: registration, JWT + session auth, and protected review CRUD. | Node.js, Express, JWT |
-| **[Emotion Detector](https://github.com/AugmentChris/final-project-emb-ai)** | Flask web app that classifies emotion in text with Watson NLP, with error handling and unit tests. | Python, Flask, NLP |
-| **[React Training](https://github.com/AugmentChris/react-training)** | Components, props, state, controlled inputs, and list rendering. | React, Vite |
+| **[Paradise Nursery](https://github.com/AugmentChris/e-plantShopping)** · [live demo](https://augmentchris.github.io/e-plantShopping/) | Plant storefront with a Redux cart: quantity controls, live totals, cart badge, and checkout. UI-tested and deployed by CI. | React, Redux Toolkit, Vitest |
+| **[Emotion Detector](https://github.com/AugmentChris/final-project-emb-ai)** | Flask app that scores text across five emotions with IBM Watson NLP, falling back to a built-in offline analyzer when Watson is unreachable. | Python, Flask, NLP |
+| **[React Training](https://github.com/AugmentChris/react-training)** · [live demo](https://augmentchris.github.io/react-training/) | Components, props, state, controlled inputs, and list rendering. | React, Vite |
 
 ### 🛠 Tech
 
 **Languages:** JavaScript (ES2020+), Python, HTML, CSS, Bash
 **Front end:** React, Vite, vanilla ES modules, PWAs (service workers, manifest), Web Audio API, accessibility
-**Back end:** Node.js, Express, Flask, REST APIs, JWT/session auth
-**Tooling:** Git, GitHub Actions, Node test runner, unittest, Linux
+**State & back end:** Redux Toolkit, Node.js, Express, Flask, REST APIs, JWT/session auth
+**Testing & tooling:** Vitest, Testing Library, Node test runner, unittest, ShellCheck, Git, GitHub Actions CI/CD, Linux
 
 ### 📫 Contact
 
