@@ -27,4 +27,4 @@ I care about software that holds up in real use: it validates input, keeps worki
 
 ### 📫 Contact
 
-Open an issue on any of my repos, or connect with me on LinkedIn (link coming soon).
+📧 [he.christianhernandez@gmail.com](mailto:he.christianhernandez@gmail.com)
