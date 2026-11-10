@@ -1,10 +1,12 @@
+<a href="https://augmentchris.github.io"><img src="https://augmentchris.github.io/banner.svg" alt="Chris, Full-Stack Developer. 3 live demos, 50 automated tests, 6 CI/CD pipelines. View portfolio." width="100%"></a>
+
 # Hi, I'm Chris 👋
 
 **Full-stack developer** building fast, private, accessible web apps with **JavaScript, Node.js, React, and Python**.
 
 I care about software that holds up in real use: it validates input, keeps working offline, respects user privacy, and is tested before it ships.
 
-🌎 Remote · 💼 **Open to full-stack and front-end roles**
+🌎 Remote · 💼 **Open to full-stack and front-end roles** · 🌐 **[augmentchris.github.io](https://augmentchris.github.io)**
 
 ---
 
